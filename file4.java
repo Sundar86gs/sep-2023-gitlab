@@ -1,3 +1,3 @@
 this is a line4 java file
-:wq!
+this is new line
 
